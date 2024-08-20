@@ -1,0 +1,216 @@
+
+.h1{
+
+    font-family: "B Nazanin";
+    font-size: 20px;
+
+}
+
+.h2_m{
+
+    font-family: "B Nazanin";
+    font-size: 30px;
+
+
+}
+
+.h2{
+
+    border-radius : 5mm;
+
+    font-family: "B Nazanin";
+    font-size: 30px;
+
+
+}
+
+.h3{
+
+    font-family: "B Nazanin";
+    font-size: 150%;
+
+}
+
+
+.h4{
+
+    font-family: "B Nazanin";
+    font-size: 200%;
+
+}
+
+
+.h5{
+
+    font-family: "B Nazanin";
+    font-size: 400%;
+
+}
+
+
+.div_t1{
+
+    width: 12mm;
+    height: 15mm;
+
+    margin-top: 1mm ;
+    margin-right: 1mm;
+
+    border: solid 1px black;
+
+    float: left;
+
+    color: black;
+
+    background: gainsboro;
+}
+
+.div_t1_top{
+
+    width: 12mm;
+    height: 10mm;
+
+    margin-top: 1mm ;
+    margin-right: 1mm;
+
+    border: solid 1px black;
+
+    float: left;
+
+    color: white;
+
+    background: black;
+}
+
+.div_t2{
+
+    width: 25mm;
+    height: 20mm;
+
+    margin-top: 1mm ;
+    margin-right: 1mm;
+
+    border: solid 1px black;
+
+    float: left;
+
+    color: black;
+
+    background: gainsboro;
+}
+
+.div_t2_top{
+
+    width: 25mm;
+    height: 20mm;
+
+    margin-top: 1mm ;
+    margin-right: 1mm;
+
+    border: solid 1px black;
+
+    float: left;
+
+    color: white;
+
+    background: black;
+}
+
+
+
+
+.list_1{
+
+    font-family: "B Nazanin";
+    font-size: 20px;
+
+    overflow: scroll;
+
+}
+
+.list_2{
+
+    font-family: "B Nazanin";
+    font-size: 25px;
+
+    overflow: scroll;
+
+}
+
+
+
+.back{
+
+    font-family: "B Vahid";
+    font-size: 25px;
+}
+
+.sel1{
+
+    font-family: "";
+    font-size: 25px;
+
+}
+
+.exp{
+
+
+    font-family: "B Nazanin";
+    font-size: 35px;
+
+    border: solid 1px white;
+
+}
+
+.exp2{
+
+
+    font-family: "B Nazanin";
+    font-size: 25px;
+
+
+}
+
+.exp3{
+
+
+    font-family: "B Nazanin";
+    font-size: 25px;
+
+    border: solid 1px white;
+
+    overflow: scroll;
+
+}
+
+.exp4{
+
+
+    font-family: "B Nazanin";
+    font-size: 50px;
+
+    border: solid 1px black;
+
+}
+
+.exp6{
+
+
+    font-family: "B Nazanin";
+    font-size: 25px;
+
+
+    color: white;
+
+}
+
+
+.sub_exit{
+
+    width: 79mm;
+    height: 28mm;
+
+    font-family: "B Vahid";
+    font-size: 40px;
+
+}
